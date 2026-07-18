@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammed Dayan
 
-<!--
-**mohammeddayanr/mohammeddayanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Enthusiast | SOC Analyst | Cloud Security
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Graduate
+
+🛡️ Interested in
+
+- SOC
+- Threat Detection
+- SIEM
+- Cloud Security
+- Incident Response
+
+## Skills
+
+- Java
+- Python
+- SQL
+- AWS
+- Azure
+- Git
+- Splunk
+- Wazuh
+- Linux
+
+## Certifications
+
+- ISC2 Certified in Cybersecurity (Preparing)
+- AWS Cloud Practitioner (Preparing)
+
+## Current Learning
+
+- Azure Security
+- SOC Operations
+- Threat Hunting
+
+## Connect
+
+LinkedIn: http://www.linkedin.com/in/r-mohammed-dayan
+Portfolio: https://mohammeddayanprofile.netlify.app
+Email: mohammeddayan.in@gmail.com
